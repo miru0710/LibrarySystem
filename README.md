@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225220063
+# Name:Mirudhula N
+# Date:20/11/2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1242" height="900" alt="Screenshot 2026-10-15 084633" src="https://github.com/user-attachments/assets/cbe289bc-699d-4bc4-9165-edf92569a57e" />
 
 
 
@@ -57,6 +58,7 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+<img width="1337" height="901" alt="Screenshot 2026-10-30 094314" src="https://github.com/user-attachments/assets/4f078f07-8db7-411d-a244-9cf09f2e14b1" />
 
 
 
@@ -97,6 +99,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1352" height="917" alt="Screenshot 2026-10-16 140138" src="https://github.com/user-attachments/assets/74898c52-8ecc-497e-aafc-13d4846ee3a4" />
 
 
 
@@ -117,6 +120,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1347" height="895" alt="Screenshot 2026-11-02 104820" src="https://github.com/user-attachments/assets/79a20dd5-8f36-4450-a571-df5b92fb8938" />
 
 
 
